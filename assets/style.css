@@ -250,6 +250,13 @@ img {
 	width: 100%;
 	height: auto;
 }
+
+.d-block {
+	width: 1440px;
+	height: auto;
+}
+
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
